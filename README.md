@@ -1,6 +1,3 @@
-# first-darhi
-just trying a css animation
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
